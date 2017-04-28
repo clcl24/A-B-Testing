@@ -149,7 +149,7 @@ Net conversion     | 0.6776  | No (0.6776>0.05)
 
 #### Summary
 
-Bonferroni correction was not used during the analysis phase. In this case, a statistically and practically significant decrease fpor gross conversion and no significant change in net conversion are required. However, the Bonferroni correction will reduce the likelihood of false positives and increased false negatives, since a single false negatives would make the decision not lanch, it is not the expectation that both metrics are satisfied to trigger launch.
+Bonferroni correction was not used during the analysis phase. In this case, a statistically and practically significant decrease for gross conversion and no significant change in net conversion are required. However, the Bonferroni correction will reduce the likelihood of false positives and increased false negatives, since a single false negatives would make the decision not lanch, it is not the expectation that both metrics are satisfied to trigger launch.
 
 There are no discrepancies between the effect size hypothesis tests and the sign tests. Both tests declare the difference between the control group and the experiment group for gross conversion as statistically significant, but not for net conversion.
 
